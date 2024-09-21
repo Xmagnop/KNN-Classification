@@ -141,3 +141,5 @@ Vantagens do SMOTE:
 - **Aumento da Precisão**: O balanceamento das classes evita que o modelo fique enviesado para a classe majoritária.
 
 - **Melhor Generalização**: O SMOTE ajuda o modelo a aprender a reconhecer padrões da classe minoritária, o que melhora a sua capacidade de generalização.
+
+LINKS PARA VIDEOS: https://drive.google.com/drive/folders/1mUGwe0uw3W6LmJsd7iH91bqJ9A85wuB7
